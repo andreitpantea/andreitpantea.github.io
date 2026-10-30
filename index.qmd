@@ -1,0 +1,80 @@
+---
+title: "Andrei-Tiberiu Pantea"
+subtitle: "Machine learning research, notes from my PhD, and ideas in progress"
+page-layout: full
+---
+
+::: {.grid .home-hero}
+::: {.g-col-12 .g-col-md-8}
+::: {.home-intro}
+I am a first year PhD student between École Polytechnique and EDF. I work on machine
+learning for time-series forecasting, with a particular interest in in-context
+learning (ICL) and explainability.
+
+This webite is where I try to organize ideas that survive my notebooks, keep a record of
+research as it develops, and write about questions that I have. I've started writing on this website on 30.10.2026, so it still has to catch up with the work I've done until now, which is an amazing opportunity to re-think all the experiments! :)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](images/profile.jpeg){.profile-photo fig-alt="Portrait of Andrei-Tiberiu Pantea"}
+:::
+:::
+
+## What I write about
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-4}
+::: {.topic-card}
+### In-context learning
+
+Investigations into the mechanism of in context learning.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.topic-card}
+### Research log
+
+Monthly accounts of what I tried, what failed, what changed my mind, and what I
+plan to investigate next.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.topic-card}
+### Thoughts
+
+Thoughts on research practice, scientific communication, and whatever else I
+find worth thinking through.
+:::
+:::
+:::
+
+## Publications
+
+- [**Understanding axial attention in TSFMs through single location regression**](https://arxiv.org/abs/2610.40188)  
+  Andrei-Tiberiu Pantea and Aymeric Dieuleveut  
+  *NeurIPS* (2026)
+
+- [**Investigating simple target-covariate relationships for Chronos-2 and TabPFN-TS**](https://openreview.net/forum?id=H8p5Yc0c3W)  
+  Gaspard Berthelier, Mariia Baranova, Andrei-Tiberiu Pantea, Etienne Le Naour,
+  Adrien Petralia, Tahar Nabil, and Themis Palpanas  
+  1st ICLR Workshop on Time Series in the Age of Large Models (2026)
+
+### Before the PhD
+
+- [**Turbulent pair dispersion with stochastic generative diffusion models**](https://doi.org/10.1209/0295-5075/ae943c)  
+  Andrei Pantea, Luca Biferale, Michele Buzzicotti, Guillaume Charpiat, Sergio
+  Chibbaro, and Tianyi Li  
+  *Europhysics Letters* 156(1), 13003 (2026)
+
+- [**Building causation links in stochastic nonlinear systems from data**](https://doi.org/10.1103/kdyd-tc6n)  
+  Sergio Chibbaro, Cyril Furtlehner, Théo Marchetta, Andrei-Tiberiu Pantea,
+  and Davide Rossetti  
+  *Physical Review E* 113(4), 044114 (2026)
+
+- [**Boundary reconstruction in two-dimensional steady-state anisotropic heat conduction**](https://doi.org/10.1007/s11075-024-01831-x)  
+  Liviu Marin and Andrei Tiberiu Pantea  
+  *Numerical Algorithms* 98(3), 1195–1230 (2025)
+

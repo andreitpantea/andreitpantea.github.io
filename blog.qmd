@@ -1,0 +1,18 @@
+---
+title: "Blog"
+description: "Research notes, technical articles, and ideas in progress."
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: [date, title, author]
+  filter-ui: true
+  page-size: 10
+---
+
+Use the categories to move between technical articles, monthly research logs,
+and broader essays. The search box filters titles and descriptions, while the
+sort menu changes the order of the posts.
+
+[**WIP**]{style="color: red;"}
