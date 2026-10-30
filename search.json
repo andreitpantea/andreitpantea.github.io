@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Use the categories to move between technical articles, monthly research logs, and broader essays. The search box filters titles and descriptions, while the sort menu changes the order of the posts.\nWIP\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Andrei-Tiberiu Pantea",
+    "section": "",
+    "text": "I am a first year PhD student between École Polytechnique and EDF. I work on machine learning for time-series forecasting, with a particular interest in in-context learning (ICL) and explainability.\nThis webite is where I try to organize ideas that survive my notebooks, keep a record of research as it develops, and write about questions that I have. I’ve started writing on this website on 30.10.2026, so it still has to catch up with the work I’ve done until now, which is an amazing opportunity to re-think all the experiments! :)"
+  },
+  {
+    "objectID": "index.html#what-i-write-about",
+    "href": "index.html#what-i-write-about",
+    "title": "Andrei-Tiberiu Pantea",
+    "section": "What I write about",
+    "text": "What I write about\n\n\n\nIn-context learning\nInvestigations into the mechanism of in context learning.\n\n\n\n\nResearch log\nMonthly accounts of what I tried, what failed, what changed my mind, and what I plan to investigate next.\n\n\n\n\nThoughts\nThoughts on research practice, scientific communication, and whatever else I find worth thinking through."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Andrei-Tiberiu Pantea",
+    "section": "Publications",
+    "text": "Publications\n\nUnderstanding axial attention in TSFMs through single location regression\nAndrei-Tiberiu Pantea and Aymeric Dieuleveut\nNeurIPS (2026)\nInvestigating simple target-covariate relationships for Chronos-2 and TabPFN-TS\nGaspard Berthelier, Mariia Baranova, Andrei-Tiberiu Pantea, Etienne Le Naour, Adrien Petralia, Tahar Nabil, and Themis Palpanas\n1st ICLR Workshop on Time Series in the Age of Large Models (2026)\n\n\nBefore the PhD\n\nTurbulent pair dispersion with stochastic generative diffusion models\nAndrei Pantea, Luca Biferale, Michele Buzzicotti, Guillaume Charpiat, Sergio Chibbaro, and Tianyi Li\nEurophysics Letters 156(1), 13003 (2026)\nBuilding causation links in stochastic nonlinear systems from data\nSergio Chibbaro, Cyril Furtlehner, Théo Marchetta, Andrei-Tiberiu Pantea, and Davide Rossetti\nPhysical Review E 113(4), 044114 (2026)\nBoundary reconstruction in two-dimensional steady-state anisotropic heat conduction\nLiviu Marin and Andrei Tiberiu Pantea\nNumerical Algorithms 98(3), 1195–1230 (2025)"
+  }
+]
